@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    text-align: center;
 }
 
 h1{
@@ -8,7 +9,7 @@ h1{
 .about{
     background-color: #e4f9f5;
 }
-.box1{
+.top{
     height: 200px;
     width: 200px;
     background-color: red;
